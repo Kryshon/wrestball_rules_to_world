@@ -1,2 +1,6 @@
 # wrestball_rules_to_world
-Open archive of different versions of Wrestball rules, published with the goal of placing them in the public domain.
+
+This repository contains various versions of Wrestball rules, published with the goal of placing them into the public domain.  
+All texts are free to use, adapt, and distribute — no permission needed.
+
+See `public-domain-declaration.txt` for details.
